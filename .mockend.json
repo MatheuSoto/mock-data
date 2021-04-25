@@ -1,7 +1,8 @@
 {
-    "Products": {
-      "title": "string",
-      "stock": "int",
-      "description": "string"
-    }
+  "Products": {
+    "title": "string",
+    "stock": "int",
+    "description": "string"
   }
+}
+  
